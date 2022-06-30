@@ -1,1 +1,4 @@
-## Hello World
+## Hi there! Welcome to my page :)
+*by Sarah*
+
+
